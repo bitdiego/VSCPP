@@ -1,0 +1,15 @@
+cerr
+clog
+getline (in std)
+
+Daniel Gakwaya
+
+en.cppreference.com/w/cpp/io/manip
+
+std::numeric_limits (<limits>)
+std::exp(x)
+
+
+12h 46' 25''
+
+https://www.youtube.com/watch?v=wN0x9eZLix4
